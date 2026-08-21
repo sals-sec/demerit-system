@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787283957133,
+      "tag": "0000_strange_aqueduct",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787304000000,
+      "tag": "0001_secure_state_and_auth",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787310000000,
+      "tag": "0002_roles_and_feedback",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1787313600000,
+      "tag": "0003_person_feedback",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1787317200000,
+      "tag": "0004_comment_appeal_workflow",
+      "breakpoints": true
+    }
+  ]
+}
